@@ -1,5 +1,5 @@
 h1 {
-  color: #00f;
+  color: #FF0000;
   text-align: center;
 }
 
@@ -16,4 +16,9 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+li {
+  font-weight: bolder;
+  color: #09b236;
 }
